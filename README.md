@@ -7,7 +7,7 @@
 ## Install
 
 ```shell
-git clone https://github.com/feng/dwm.git
+git clone https://github.com/fengb7e5/dwm.git
 
 cd dwm
 chmod +x install.sh
@@ -25,5 +25,4 @@ chmod +x install.sh
 - volumeicon
 - fcitx5
 - udiskie
-- trojan
 
